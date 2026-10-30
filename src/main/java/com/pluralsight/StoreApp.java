@@ -35,5 +35,4 @@ public class StoreApp {
         return inventory;
     }
 
-
 }
